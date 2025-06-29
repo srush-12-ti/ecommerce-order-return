@@ -33,7 +33,7 @@ Key questions addressed:
  Analyzing return rates by product category and brand  
  Studying the relationship between price, discounts, and returns  
  Exploring how customer ratings correlate with returns  
- Visualizing key findings with bar plots, boxplots, heatmaps, and more  
+ Visualizing key findings with bar plots, heatmaps, and more  
  Summarizing insights for improving product quality and return policies
 
 ---
